@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://codesandbox.io">
+  <a href="">
     <img src="resources/site-logo.svg" height="300px">
   </a>
 </p>
